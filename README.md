@@ -1,11 +1,10 @@
 # 💀 ALGORETHM 💀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=800&size=30&duration=1500&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&random=false&width=500&height=70&lines=ALGORETHM;H4CK3R+M1NDSET;BUG+BOUNTY+HUNTER;SYSTEM+INFILTRATOR;A FRIEND" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=800&size=30&duration=1500&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&random=false&width=500&height=70&lines=ALGORETHM;H4CK3R+M1NDSET;BUG+BOUNTY+HUNTER;SYSTEM+INFILTRATOR;A+FRIEND" alt="Typing SVG" />
   
   <br>
   
-  <img width="800" src="https://jumpshare.com/s/Mf7btVrGVVvzkqpaY6Bi" alt="ASCII Art">
   
   ### *"I don't break into systems... I just find the doors they left open."*
 </div>
