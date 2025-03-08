@@ -30,7 +30,7 @@ tools = {
 ## 🏆 Achievements
 
 - Created Greaper (more details coming soon)
-- Found my first XSS vulnerability (Mom wasn't impressed but I was thrilled)
+- When I found my first XSS vulnerability (Mom wasn't impressed but I was thrilled)
 - Successfully explained to a non-tech friend what a "bug bounty" is without making their eyes glaze over
 - Reached level 99 in overthinking simple problems
 
@@ -38,8 +38,8 @@ tools = {
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegramHere) 
-[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHere)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hackerpwd1) 
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/algorethm_))
 
 </div>
 
@@ -49,7 +49,7 @@ If my work has saved your company thousands in security breaches, consider buyin
 
 <div align="center">
   
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YourPayPalHere)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=Z9HENP8G6PTD6)
 
 </div>
 
