@@ -17,8 +17,8 @@ jobs:
       - name: Update Date Badge
         run: |
           # Get current date in desired format (e.g., JAN_01_2026)
-          # Using UTC time
-          CURRENT_DATE=$(date -u +'%b_%d_%Y' | tr '[:lower:]' '[:upper:]')
+          # Using Africa/Nairobi time (UTC+3)
+          CURRENT_DATE=$(TZ='Africa/Nairobi' date +'%b_%d_%Y' | tr '[:lower:]' '[:upper:]')
 
           echo "Updating date to: $CURRENT_DATE"
 

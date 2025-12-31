@@ -47,15 +47,11 @@ Just your friendly neighborhood bug hunter still learning the ropes. By day, I'm
 
 ## Live Intel
 <div align="center">
-  <a href="https://github.com/algorethmpwd">
-  <img src="https://github-readme-stats.vercel.app/api?username=algorethmpwd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/algorethmpwd">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-  </a>
+  <!-- Isometric Commit Calendar -->
+  <img src="https://github.com/algorethmpwd/algorethmpwd/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric Commits" />
   <br />
-  <!-- Streak Stats (Switched to DemoLab for better reliability) -->
-  <img src="https://streak-stats.demolab.com?user=algorethmpwd&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="Streak Stats" />
+  <!-- Language Analysis -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=c9d1d9" alt="Top Langs" />
 </div>
 
 <!-- Trophies (Reliable & Sophisticated) -->
@@ -94,7 +90,7 @@ Just your friendly neighborhood bug hunter still learning the ropes. By day, I'm
   
   <!-- Dynamic Date Badge -->
   <!-- DATE_BADGE_START -->
-  <img src="https://img.shields.io/badge/System_Date-DEC_31_2025-39FF14?style=for-the-badge&logo=clock&logoColor=black" alt="Current Date" />
+  <img src="https://img.shields.io/badge/System_Date-JAN_01_2026-39FF14?style=for-the-badge&logo=clock&logoColor=black" alt="Current Date" />
   <!-- DATE_BADGE_END -->
 
   <br /> 
