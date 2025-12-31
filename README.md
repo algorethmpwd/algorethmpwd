@@ -48,10 +48,10 @@ Just your friendly neighborhood bug hunter still learning the ropes. By day, I'm
 ## Live Intel
 <div align="center">
   <a href="https://github.com/algorethmpwd">
-  <img src="https://github-readme-stats.vercel.app/api?username=algorethmpwd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=algorethmpwd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/algorethmpwd">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9" alt="Top Langs" />
   </a>
   <br />
   <!-- Streak Stats for extra complexity -->
@@ -92,7 +92,7 @@ Just your friendly neighborhood bug hunter still learning the ropes. By day, I'm
   
   <!-- Dynamic Date Badge -->
   <!-- DATE_BADGE_START -->
-  <img src="https://img.shields.io/badge/System_Date-JAN_01_2026-39FF14?style=flat-square&logo=clock&logoColor=black" alt="Current Date" />
+  <img src="https://img.shields.io/badge/System_Date-JAN_01_2026-39FF14?style=for-the-badge&logo=clock&logoColor=black" alt="Current Date" />
   <!-- DATE_BADGE_END -->
 
   <br /> 

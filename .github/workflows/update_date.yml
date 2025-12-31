@@ -2,8 +2,8 @@ name: Update System Date
 
 on:
   schedule:
-    - cron: '30 23 * * *' # Updates 30 mins before midnight UTC to be fresh for the new day
-  workflow_dispatch:      # Allow manual trigger
+    - cron: "30 23 * * *" # Updates 30 mins before midnight UTC to be fresh for the new day
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   update-date:
@@ -19,13 +19,13 @@ jobs:
           # Get current date in desired format (e.g., JAN_01_2026)
           # Using UTC time
           CURRENT_DATE=$(date -u +'%b_%d_%Y' | tr '[:lower:]' '[:upper:]')
-          
+
           echo "Updating date to: $CURRENT_DATE"
-          
+
           # Construct the new badge URL string
           # Note: We escape double quotes for the variable assignment
-          NEW_BADGE="  <img src=\"https://img.shields.io/badge/System_Date-${CURRENT_DATE}-39FF14?style=flat-square&logo=clock&logoColor=black\" alt=\"Current Date\" />"
-          
+          NEW_BADGE="  <img src=\"https://img.shields.io/badge/System_Date-${CURRENT_DATE}-39FF14?style=for-the-badge&logo=clock&logoColor=black\" alt=\"Current Date\" />"
+
           # Use awk to replace content between markers
           # passing the variable 'badge' to awk
           awk -v badge="$NEW_BADGE" '
@@ -38,13 +38,13 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           # Check if there are changes
           if git diff --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          
+
           git add README.md
           git commit -m "Update system date to $(date -u +'%Y-%m-%d')"
           git push
