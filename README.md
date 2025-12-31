@@ -27,39 +27,41 @@ Just your friendly neighborhood bug hunter still learning the ropes. By day, I'm
 ## Command Center
 
 <div align="center">
-
-  <!-- Operating Systems & Languages -->
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  
-  <br />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-14354C?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white" />
-
+  <!-- Replaced standard badges with rich Skill Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,python,bash,md,linux,vim,vscode,git&theme=dark" />
+  </a>
+  <br /> <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tor,cloudflare,docker,nginx,wireshark,grafana&theme=dark" />
+  </a>
 </div>
 
-### My Configuration
-```python
-tools = {
-    "OS": "Kali Linux (Status: Too cool for Windows)",
-    "Languages": ["Python", "Bash", "Payloads"],
-    "Arsenal": ["Burp Suite", "Metasploit", "Coffee.exe", "Patience.py"],
-    "Current_Mission": "Learning to explain my job to my mom"
-}
-```
+### System Configuration
+<!-- Terminal Simulation -->
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=39FF14&background=0D1117&center=false&vCenter=false&width=700&height=180&lines=user@algorethm:~$+cat+configuration.json;{;++++%22OS%22:+%22Kali+Linux%22,;++++%22Stack%22:+[%22Python%22,+%22Bash%22,+%22Zero-Day+Research%22],;++++%22Status%22:+%22Injecting+Payloads...%22,;++++%22Caffeine_Level%22:+%22CRITICAL%22;};user@algorethm:~$+sudo+hack_the_planet" alt="Terminal" />
+</div>
 
 ---
 
 ## Live Intel
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=algorethmpwd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9" alt="Top Langs" height="150" />
+  <a href="https://github.com/algorethmpwd">
+  <img src="https://github-readme-stats.vercel.app/api?username=algorethmpwd&show_icons=true&theme=rogue&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/algorethmpwd">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=compact&theme=rogue&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9" alt="Top Langs" height="150" />
+  </a>
+  <br />
+  <!-- Streak Stats for extra complexity -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorethmpwd&theme=rogue&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="Streak Stats" />
+</div>
+
+<!-- Snake Contribution Animation -->
+<div align="center">
+  <br />
+  <img src="https://github.com/algorethmpwd/algorethmpwd/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -77,7 +79,7 @@ tools = {
 
 <div align="center">
   <a href="https://algorethmpwd.site">
-    <img src="https://img.shields.io/badge/Website-Visit_Secure_node-00FF00?style=for-the-badge&logo=firefox&logoColor=black" />
+    <img src="https://img.shields.io/badge/Website-Visit_Secure_Node-00FF00?style=for-the-badge&logo=firefox&logoColor=black" />
   </a>
   <a href="https://t.me/algorethmpwd">
     <img src="https://img.shields.io/badge/Telegram-Join_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -93,6 +95,10 @@ tools = {
   <img src="https://img.shields.io/badge/System_Date-JAN_01_2026-39FF14?style=flat-square&logo=clock&logoColor=black" alt="Current Date" />
   <!-- DATE_BADGE_END -->
 
+  <br /> 
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=algorethmpwd&style=flat-square&label=Traffic_Logs&color=00FF00" alt="Profile Views" />
+
 </div>
 
 ---
@@ -103,32 +109,43 @@ If my tools or findings have helped you secure your perimeter, consider fueling 
 
 <div align="center">
   <table border="0">
+    <!-- BTC ROW -->
     <tr>
-      <td align="center" width="60">
-        <img src="https://img.shields.io/badge/BTC-FF9900?style=flat-square&logo=bitcoin&logoColor=white" />
+      <td align="center">
+        <img src="https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" />
+        <br />
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=15MG2nFd9mpx1x2oR2shBfqiNjeo4VWEqk" alt="BTC QR" />
       </td>
-      <td align="left"><code>15MG2nFd9mpx1x2oR2shBfqiNjeo4VWEqk</code></td>
+      <td align="left" valign="middle">
+        <h4>BTC Address:</h4>
+        <code>15MG2nFd9mpx1x2oR2shBfqiNjeo4VWEqk</code>
+      </td>
     </tr>
+
+    <!-- ETH ROW -->
     <tr>
-      <td align="center" width="60">
-        <img src="https://img.shields.io/badge/ETH-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+      <td align="center">
+        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+        <br />
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0x8c0b61567ab141f129fa114d0d74951b37290ac1" alt="ETH QR" />
       </td>
-      <td align="left"><code>0x8c0b61567ab141f129fa114d0d74951b37290ac1</code></td>
+      <td align="left" valign="middle">
+        <h4>ETH Address:</h4>
+        <code>0x8c0b61567ab141f129fa114d0d74951b37290ac1</code>
+      </td>
     </tr>
+
+    <!-- USDT ROW -->
     <tr>
-      <td align="center" width="60">
-        <img src="https://img.shields.io/badge/USDT-50AF95?style=flat-square&logo=tether&logoColor=white" />
+      <td align="center">
+        <img src="https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white" />
+        <br />
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=TKtLZjLbsWa8st3Zr6qwzAewD1x5bdcFGs" alt="USDT QR" />
       </td>
-      <td align="left">
-        <code>TKtLZjLbsWa8st3Zr6qwzAewD1x5bdcFGs</code> <br/>
-        <sub>(Network: TRC20)</sub>
+      <td align="left" valign="middle">
+        <h4>USDT (TRC20) Address:</h4>
+        <code>TKtLZjLbsWa8st3Zr6qwzAewD1x5bdcFGs</code>
       </td>
     </tr>
   </table>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=SYSTEM+STATUS%3A+SECURE;CONNECTION+TERMINATED" alt="Footer Animation" />
 </div>
