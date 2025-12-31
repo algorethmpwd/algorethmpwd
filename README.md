@@ -48,14 +48,14 @@ Just your friendly neighborhood bug hunter still learning the ropes. By day, I'm
 ## Live Intel
 <div align="center">
   <a href="https://github.com/algorethmpwd">
-  <img src="https://github-readme-stats.vercel.app/api?username=algorethmpwd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=algorethmpwd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/algorethmpwd">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
   </a>
   <br />
-  <!-- Streak Stats for extra complexity -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorethmpwd&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="Streak Stats" />
+  <!-- Streak Stats (Switched to DemoLab for better reliability) -->
+  <img src="https://streak-stats.demolab.com?user=algorethmpwd&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="Streak Stats" />
 </div>
 
 <!-- Snake Contribution Animation -->
