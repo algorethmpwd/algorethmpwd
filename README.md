@@ -58,10 +58,12 @@ Just your friendly neighborhood bug hunter still learning the ropes. By day, I'm
   <img src="https://streak-stats.demolab.com?user=algorethmpwd&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="Streak Stats" />
 </div>
 
-<!-- Snake Contribution Animation -->
+<!-- Trophies (Reliable & Sophisticated) -->
 <div align="center">
   <br />
-  <img src="https://github.com/algorethmpwd/algorethmpwd/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=algorethmpwd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
