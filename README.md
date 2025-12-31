@@ -48,14 +48,14 @@ Just your friendly neighborhood bug hunter still learning the ropes. By day, I'm
 ## Live Intel
 <div align="center">
   <a href="https://github.com/algorethmpwd">
-  <img src="https://github-readme-stats.vercel.app/api?username=algorethmpwd&show_icons=true&theme=rogue&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=algorethmpwd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="150" />
   </a>
   <a href="https://github.com/algorethmpwd">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=compact&theme=rogue&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9" alt="Top Langs" height="150" />
   </a>
   <br />
   <!-- Streak Stats for extra complexity -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorethmpwd&theme=rogue&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorethmpwd&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="Streak Stats" />
 </div>
 
 <!-- Snake Contribution Animation -->
@@ -108,44 +108,44 @@ Just your friendly neighborhood bug hunter still learning the ropes. By day, I'm
 If my tools or findings have helped you secure your perimeter, consider fueling my caffeine addiction.
 
 <div align="center">
-  <table border="0">
-    <!-- BTC ROW -->
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" />
-        <br />
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=15MG2nFd9mpx1x2oR2shBfqiNjeo4VWEqk" alt="BTC QR" />
-      </td>
-      <td align="left" valign="middle">
-        <h4>BTC Address:</h4>
-        <code>15MG2nFd9mpx1x2oR2shBfqiNjeo4VWEqk</code>
-      </td>
-    </tr>
+<table border="0">
+<!-- BTC ROW -->
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<br />
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=15MG2nFd9mpx1x2oR2shBfqiNjeo4VWEqk" alt="BTC QR" />
+</td>
+<td align="left" valign="middle">
+<h4>BTC Address:</h4>
+<code>15MG2nFd9mpx1x2oR2shBfqiNjeo4VWEqk</code>
+</td>
+</tr>
 
-    <!-- ETH ROW -->
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-        <br />
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0x8c0b61567ab141f129fa114d0d74951b37290ac1" alt="ETH QR" />
-      </td>
-      <td align="left" valign="middle">
-        <h4>ETH Address:</h4>
-        <code>0x8c0b61567ab141f129fa114d0d74951b37290ac1</code>
-      </td>
-    </tr>
+<!-- ETH ROW -->
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<br />
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0x8c0b61567ab141f129fa114d0d74951b37290ac1" alt="ETH QR" />
+</td>
+<td align="left" valign="middle">
+<h4>ETH Address:</h4>
+<code>0x8c0b61567ab141f129fa114d0d74951b37290ac1</code>
+</td>
+</tr>
 
-    <!-- USDT ROW -->
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white" />
-        <br />
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=TKtLZjLbsWa8st3Zr6qwzAewD1x5bdcFGs" alt="USDT QR" />
-      </td>
-      <td align="left" valign="middle">
-        <h4>USDT (TRC20) Address:</h4>
-        <code>TKtLZjLbsWa8st3Zr6qwzAewD1x5bdcFGs</code>
-      </td>
-    </tr>
-  </table>
+<!-- USDT ROW -->
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white" />
+<br />
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=TKtLZjLbsWa8st3Zr6qwzAewD1x5bdcFGs" alt="USDT QR" />
+</td>
+<td align="left" valign="middle">
+<h4>USDT (TRC20) Address:</h4>
+<code>TKtLZjLbsWa8st3Zr6qwzAewD1x5bdcFGs</code>
+</td>
+</tr>
+</table>
 </div>
