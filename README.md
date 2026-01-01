@@ -47,11 +47,16 @@ Just your friendly neighborhood bug hunter still learning the ropes. By day, I'm
 
 ## Live Intel
 <div align="center">
-  <!-- Isometric Commit Calendar -->
-  <img src="https://github.com/algorethmpwd/algorethmpwd/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric Commits" />
+  <!-- Isometric Commit Calendar (Self-Generated) -->
+  <!-- Using relative path so it loads directly from the repository -->
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric Commits" />
   <br />
-  <!-- Language Analysis -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=c9d1d9" alt="Top Langs" />
+  
+  <!-- GitHub Profile Summary Cards (Self-Generated) -->
+  <!-- These load from your repo after the workflow runs, no external links! -->
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Languages" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
 </div>
 
 <!-- Trophies (Reliable & Sophisticated) -->
