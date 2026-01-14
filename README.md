@@ -95,7 +95,7 @@ Just your friendly neighborhood bug hunter still learning the ropes. By day, I'm
   
   <!-- Dynamic Date Badge -->
   <!-- DATE_BADGE_START -->
-  <img src="https://img.shields.io/badge/System_Date-JAN_14_2026-39FF14?style=for-the-badge&logo=clock&logoColor=black" alt="Current Date" />
+  <img src="https://img.shields.io/badge/System_Date-JAN_15_2026-39FF14?style=for-the-badge&logo=clock&logoColor=black" alt="Current Date" />
   <!-- DATE_BADGE_END -->
 
   <br /> 
