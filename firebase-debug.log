@@ -1,0 +1,12 @@
+[debug] [2026-02-22T21:43:20.226Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-22T21:43:20.231Z] > authorizing via signed-in user (jamesaalgore23@gmail.com)
+[debug] [2026-02-22T21:43:20.244Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-22T21:43:20.245Z] > authorizing via signed-in user (jamesaalgore23@gmail.com)
+[debug] [2026-02-22T21:43:20.538Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-22T21:43:20.539Z] > authorizing via signed-in user (jamesaalgore23@gmail.com)
+[debug] [2026-02-22T21:43:20.540Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-22T21:43:20.540Z] > authorizing via signed-in user (jamesaalgore23@gmail.com)
+[debug] [2026-02-22T21:43:20.674Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-22T21:43:20.674Z] > authorizing via signed-in user (jamesaalgore23@gmail.com)
+[debug] [2026-02-22T21:43:20.675Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-22T21:43:20.676Z] > authorizing via signed-in user (jamesaalgore23@gmail.com)

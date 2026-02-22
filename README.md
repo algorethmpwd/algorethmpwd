@@ -153,5 +153,5 @@ If my tools or findings have helped you secure your perimeter, consider fueling 
 </table>
 </div>
 <p align="center">
-  <img src="https://github.com/algorethmpwd/algorethmpwd/raw/output/github-snake-dark.svg" alt="snake"></center>
+  <img src="./dist/github-snake-dark.svg" alt="snake"></center>
 </p>
