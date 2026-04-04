@@ -69,13 +69,19 @@ $ researcher@algorethm:~$ cat current_objectives.log
 ## LIVE_NETWORK_METRICS
 
 <div align="center">
-  <!-- ACTIVITY GRAPH (SIMULATING SCREENSHOT 1) -->
+  <!-- PRIMARY SYSTEM STATS CARD -->
+  <img src="https://github-readme-stats.vercel.app/api?username=algorethmpwd&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=39FF14&icon_color=39FF14" width="49%" alt="System Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorethmpwd&theme=matrix&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&sideLabels=39FF14&dates=39FF14" width="49%" alt="Streak Stats" />
+  
+  <br><br>
+
+  <!-- CONTRIBUTION GRID (AS REQUESTED) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=algorethmpwd&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=39FF14" width="100%" alt="Contribution Graph" />
   
   <br>
 
-  <!-- PROGRESS BAR (SIMULATING SCREENSHOT 1) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=39FF14&icon_color=39FF14" width="100%" alt="System Progress" />
+  <!-- TOP LANGUAGES PROGRESS BAR -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorethmpwd&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=39FF14&icon_color=39FF14" width="100%" alt="Language Analysis" />
 </div>
 
 ---
