@@ -1,6 +1,6 @@
 <!-- HEADER: TERMINAL BOOT SEQUENCE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=ALGORETHM&fontSize=75&fontAlign=50&fontAlignY=40&animation=twinkling&desc=SYSTEM_ACCESS_GRANTED_|_NODE_ID:_0x47B2&descAlign=50&descAlignY=65&stroke=39FF14&strokeWidth=1" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=ALGORETHM&fontSize=80&fontColor=39FF14&fontAlign=50&fontAlignY=35&animation=twinkling&desc=SYSTEM%20ACCESS%20GRANTED%20%7C%20NODE%20ID:%200x47B2&descAlign=50&descAlignY=62&descSize=20&descColor=39FF14&stroke=000000&strokeWidth=0" alt="Header" />
 
   <br>
 
