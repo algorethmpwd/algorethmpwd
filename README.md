@@ -21,7 +21,7 @@
 
 <br>
 
-## 🕵️‍♂️ Mission Profile
+## Mission Profile
 
 Just your friendly neighborhood bug hunter. By day, I'm deep-diving into the architecture of modern systems. By night, I'm hunting for the vulnerabilities others missed. Creator of **Greaper** (because even the digital realm needs its own Grim Reaper). I'm on a continuous journey to master the art of exploitation and, more importantly, defense.
 
@@ -29,7 +29,7 @@ Just your friendly neighborhood bug hunter. By day, I'm deep-diving into the arc
 
 ---
 
-## 🛠️ Command Center: Tech Stack
+## Command Center: Tech Stack
 
 <div align="center">
   <table>
@@ -54,42 +54,16 @@ Just your friendly neighborhood bug hunter. By day, I'm deep-diving into the arc
 
 ---
 
-## 📊 Live Intel: System Stats
+## Threat Intelligence Log
 
-<div align="center">
-  <!-- Stats Cards -->
-  <a href="https://github.com/algorethmpwd">
-    <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="48%" alt="Profile Details" />
-  </a>
-  <a href="https://github.com/algorethmpwd">
-    <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Languages" />
-  </a>
-  
-  <br><br>
-
-  <!-- Isometric Commit Calendar -->
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Isometric Commits" />
-  
-  <br><br>
-
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=algorethmpwd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</div>
+- Deployed **Greaper** (Classified toolset, details restricted)
+- Exploited my first **XSS vulnerability** (Mom wasn't impressed, I was thrilled)
+- Successfully explained "bug bounty" to a normative without inducing sleep
+- Reached **Level 99** in overthinking simple authentication bypasses
 
 ---
 
-## 🏆 Threat Intelligence Log
-
-- 🚀 Deployed **Greaper** (Classified toolset, details restricted)
-- 🐛 Exploited my first **XSS vulnerability** (Mom wasn't impressed, I was thrilled)
-- 🗣️ Successfully explained "bug bounty" to a normative without inducing sleep
-- 🧠 Reached **Level 99** in overthinking simple authentication bypasses
-
----
-
-## 📡 Encrypted Uplink
+## Encrypted Uplink
 
 <div align="center">
   <!-- Social Badges -->
@@ -112,7 +86,7 @@ Just your friendly neighborhood bug hunter. By day, I'm deep-diving into the arc
 
 ---
 
-## ☕ Support the Operation
+## Support the Operation
 
 If my tools or vulnerability disclosures have fortified your perimeter, consider fueling the late-night operations.
 
